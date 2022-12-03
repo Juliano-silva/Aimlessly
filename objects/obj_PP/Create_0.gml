@@ -1,0 +1,10 @@
+left = 0;
+right = 0;
+up = 0;
+transform = 0;
+hveloc = 0;
+veloc = 3;
+direct = 0;
+vveloc = 0;
+gravidade = 0.09;
+global.Bullets = 10000;
